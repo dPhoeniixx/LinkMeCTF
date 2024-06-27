@@ -3,7 +3,7 @@ LinkMe is a public figure shareable card creator. It creates a link for you that
 
 ## How to Get the Challenge Up?
 
-This project is using Docker, you can simply build and run it:
+This project uses Docker, you can simply build and run it:
 ```bash
 docker build -t linkme-challenge .
 docker run -p 3000:3000 linkme-challenge
