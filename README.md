@@ -1,5 +1,5 @@
 # LinkMe Web Challenge
-LinkMe is a public figure shareable card creator, it creates a link for you that shows a short introduction about through simple card present Name, Job, Bio, Accounts. LinkMe Challenge was inspired by real-world scenario to learn you new tricks and extend your thinking about application security mind-set. 
+LinkMe is a public figure shareable card creator. It creates a link for you that displays a short introduction through a simple card presenting your name, job, bio, and accounts. The LinkMe Challenge was inspired by real-world scenarios to teach you new tricks.
 
 ## How to Get the Challenge Up?
 
